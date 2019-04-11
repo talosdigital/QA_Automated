@@ -11,7 +11,6 @@ public class Test_LogInBack {
 
     private JO_LogIn jo = new JO_LogIn();
     private String url = "https://dealt-api.test4echo.app/api-test/api/authenticate";
-    private String method = "POST";
     private String token;
 
     @Test
